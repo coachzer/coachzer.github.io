@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "@ristemicev"
+title: "@nikolakovacevic"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website
+This is my personal website.
