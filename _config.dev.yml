@@ -11,3 +11,5 @@ comments:
 
 sass:
   style: expanded
+  
+theme: jekyll-theme-cayman
