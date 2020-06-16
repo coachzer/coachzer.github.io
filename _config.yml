@@ -272,7 +272,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  
+theme: jekyll-theme-tactile
 
 # Archives
 #  Type
@@ -310,4 +311,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-tactile
+
