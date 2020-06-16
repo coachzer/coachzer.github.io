@@ -9,3 +9,7 @@ redirect_from:
 ---
 
 This is my personal website.
+
+Born in Greece, lived most of my life in Serbia and I'm currently an undergraduate student in Slovenia
+at Univerisity of Primorska, Faculty of Mathematics, Natural Sciences and Information Techonologies.
+
