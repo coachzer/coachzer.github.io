@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website.
-
-Born in Greece, lived most of my life in Serbia and I'm currently an undergraduate student in Slovenia
-at University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies.
+I am a Computer Science student from the University of Primorska, Koper, Slovenia, finishing my bachelors degree. In my thesis I am doing research in human-computer interaction (HCI) and towards touchscreen interaction. Generally I am also interested in frontend, UI/UX design, as well as drones and music in augmented reality (AR).
 
