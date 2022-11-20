@@ -12,4 +12,4 @@ I am a Computer Science student from the University of Primorska, Koper, Sloveni
 
 Down below you can check the poster paper I have written in collaboration with Jordan Aiko Deja and Maheshya Weerasinghe, which got accepted for ACM ISS '22!
 
-<embed src="/images/ISS_2022_Nikola_Poster_Paper.pdf" type="application/pdf" height="900">
+<embed src="/images/ISS_2022_Nikola_Poster_Paper.pdf" type="application/pdf" height="500">
