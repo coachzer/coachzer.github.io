@@ -10,3 +10,4 @@ redirect_from:
 
 I am a Computer Science student from the University of Primorska, Koper, Slovenia, finishing my bachelors degree. In my thesis I am doing research in human-computer interaction (HCI) and towards touchscreen interaction. Generally I am also interested in frontend, UI/UX design, as well as drones and music in augmented reality (AR).
 
+<embed src="/images/ISS_2022_Nikola_Poster_Paper.pdf" type="application/pdf">
