@@ -12,6 +12,8 @@ I am a Computer Science student from the University of Primorska, Koper, Sloveni
 
 Down below you can check the poster paper I have written in collaboration with Jordan Aiko Deja and Maheshya Weerasinghe, which got accepted for as a poster presentation for ACM ISS '22! We have also written a poster paper for Primatijada '23.
 
+Thesis: [Using Puzzle-Like Interactions In Supporting Information Retention in Digital Maps](https://coachzer.github.io/images/Thesis_2023_NikolaKovacevic.pdf)
+
 Publications:
   - ACM ISS '22: [link](https://coachzer.github.io/images/ISS_2022_Nikola_Poster_Paper.pdf)
   - Primatijada '23: [link](https://coachzer.github.io/images/Primatijada_2023_Nikola.pdf)
